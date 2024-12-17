@@ -32,7 +32,6 @@ Developers: To create and improve tools for sensitive data classification.
 
 **Core Principles:**
 
-Free Access: SafeClassify will be free for anyone to use, modify, and distribute.
 
 Community Collaboration: Contributions from the global open-source community will drive innovation and improvement.
 
